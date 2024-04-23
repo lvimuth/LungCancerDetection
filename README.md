@@ -16,7 +16,7 @@ Overview of the proposed lung cancer detection system
 - S.A.D.L.V. Senarathna ( Lakshitha Vimuth ) - Initial work on CNN models and image processing.
 - W.G.C.W. Kumara - Supervisor.
 
-For more information or queries, reach out via [portfolio](lvimuth.github.io).
+For more information or queries, reach out via [portfolio](https://lvimuth.github.io/).
 
 ## Installation
 To set up this project, follow these steps:
