@@ -26,3 +26,4 @@ git clone [repo-link]
 cd [repo-folder]
 pip install -r requirements.txt
 ```
+For more details : [International Conference on Electrical, Control and Instrumentation Engineering (ICECIE)](https://ieeexplore.ieee.org/document/9664658)
