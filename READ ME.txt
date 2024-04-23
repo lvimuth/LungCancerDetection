@@ -1,0 +1,4 @@
+BEFORE RUN THE CODE
+
+01. Change the file location in the CanceDetection.py **Dont run the code**
+02. Then run the Nodule_detection
